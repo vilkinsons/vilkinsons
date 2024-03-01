@@ -5,12 +5,12 @@
 [HASH]: https://github.com/hashintel/hash
 [nonparibus.com]: https://nonparibus.com/?utm_medium=organic&utm_source=github_readme_nonparibus-profile_root
 
-**Current Projects**
+**Currently**
 
 **∞** &nbsp;[NonParibus.com] - my public notes and framework
 
-**#** &nbsp; [HASH] - an open-source platform for a new kind of web, and a better way to work with information
+**#** &nbsp; [HASH] - for a new kind of web
 
-**Þ** &nbsp; [Block Protocol] - an open-source protocol for web-based blocks and the applications that embed them
+**Þ** &nbsp; [Block Protocol] - open-source protocol for blocks and the applications that embed them
 
-You can also find me over on LinkedIn [`in/delta`] and 𝕏 [`@nonparibus`]
+Find me on LinkedIn [`in/delta`] and 𝕏 [`@nonparibus`]
