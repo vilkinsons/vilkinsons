@@ -1,4 +1,4 @@
-[`@nonparibus`]: https://x.com/vilkinsons
+[`@vilkinsons`]: https://x.com/vilkinsons
 [`in/delta`]: https://linkedin.com/in/delta
 [Block Protocol]: https://github.com/blockprotocol/blockprotocol
 [HASH]: https://github.com/hashintel/hash
